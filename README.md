@@ -1,4 +1,8 @@
 # delivery
+```
+使用方法: 直接将该仓库下的代码上传到自己私有的gitlab中即可
+上传到devops这个组下的delivery项目
+```
 
 ## Intro
 A Jenkinsfile pipeline framework, like gradle.
